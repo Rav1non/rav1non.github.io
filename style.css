@@ -16,6 +16,7 @@ body {
 .main {
     color: white;
     text-align: center;
+    font-size: 2rem;
 }
 
 a {
@@ -26,6 +27,7 @@ a {
     border-radius: 5px;
     margin: 0 5px;
     transition: transform 0.3s, opacity 0.3s;
+    font-size: 2rem;
 }
 
 a:hover {
